@@ -5,4 +5,4 @@ Assigning phase values for time series with clear maxima (or minima)
 
 Strength of synchrony based on normalized entropy
 
-Surrgoate Testing Synchrony
+Surrgoate Data Testing synchrony
